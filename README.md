@@ -51,7 +51,7 @@ cd pfSense-pkg-RestAPI
 			- server has to have access to pfSense host. (be able to reach it)<br />
 			- install the service:<br /><br />
 
-  <a href="https://hala.aml.one/hala_server.msi" target="_blank">Download Hala Server</a>
+  <a href="https://github.com/aml-one/hala_setup/raw/main/hala_server.msi" target="_blank">Download Hala Server</a>
   <hr />
 
   (In default, the installer will open up firewall port 13000 and setup a rule with netsh to start listening on that port)<br />
@@ -95,7 +95,7 @@ For base64 encode you can use: <a href="https://www.base64encode.org/" target="_
     <a class="dotnet" href="https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.0-windows-x64-installer" target="_blank">Download .NET 8 Desktop Runtime</a>
     <br />
     <br />
-    <a href="https://hala.aml.one/hala_client.msi" target="_blank">Download Hala Client</a>
+    <a href="https://github.com/aml-one/hala_setup/raw/main/hala_client.msi" target="_blank">Download Hala Client</a>
     <br />
     <br />
     Edit config file: (<span style="color:rgb(222, 161, 48)">ProgramFiles\AmL\Hala - Public IP Change Sender App\Config.ini</span>) [Requires Administrator rights]<br />
